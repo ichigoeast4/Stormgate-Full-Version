@@ -243,4 +243,4 @@ This repository serves as the official landing page for Stormgate. The software 
 **Get the most recent version of Stormgate today!**
 
 ---
-**Last updated:** 2026-10-05 23:53:58 UTC
+**Last updated:** 2026-10-06 05:06:00 UTC
